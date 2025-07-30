@@ -1,16 +1,15 @@
 ,Value
-Total Return (%),-97.70265697933581
-Annualized Return (%),-97.70265697933581
-Annualized Volatility (%),1521.2657365722646
-Sharpe Ratio,-0.06422458261597391
-Max Drawdown (%),-101.09576243715534
-Calmar Ratio,-0.966436719244995
-Win Rate (%),32.142857142857146
-Average Win (%),73.22363821533351
-Average Loss (%),-39.25949412565977
+Total Return (%),-3.5462637791499274
+Annualized Return (%),-3.5462637791499274
+Annualized Volatility (%),3.6750961086662195
+Sharpe Ratio,-0.9649445005771431
+Max Drawdown (%),-5.637781492780746
+Calmar Ratio,-0.6290175991550869
+Win Rate (%),31.349206349206348
+Profit Factor,0.8216624030841759
 Trading Days,252.0
-Total Trades,16.0
-Long Trades,0.0
-Short Trades,16.0
-Avg Holding Period,5.0
-Market Exposure (%),31.746031746031743
+Total Trades,20.0
+Long USD Trades,4.0
+Long BRL Trades,16.0
+Avg Holding Period,4.7
+Market Exposure (%),37.301587301587304
